@@ -1,7 +1,4 @@
 # Cesar B Rocha
-
-### Scientist and Educator
-
 ![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0001-5999-4917&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0003-4063-5468)
 [![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=wRu-wVUAAAAJ&hl=en&oi=ao)
