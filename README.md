@@ -3,7 +3,7 @@
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0001-5999-4917&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0003-4063-5468)
 [![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=wRu-wVUAAAAJ&hl=en&oi=ao)
 
-[Headshot](https://github.com/cesar-rocha/cesar-rocha.github.io/blob/f201eec9c69608d73eccb5b95c1c33cb3904916c/assets/img/Rocha_OfficialPortrait_2022.JPG)          (📸: Peter Morenus)
+[Headshot](https://raw.githubusercontent.com/cesar-rocha/cesar-rocha.github.io/f201eec9c69608d73eccb5b95c1c33cb3904916c/assets/img/Rocha_OfficialPortrait_2022.JPG)          (📸: Peter Morenus)
 
 <!--
 **cesar-rocha/cesar-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
