@@ -5,18 +5,40 @@
 
 [Official portrait](https://raw.githubusercontent.com/cesar-rocha/cesar-rocha.github.io/f201eec9c69608d73eccb5b95c1c33cb3904916c/assets/img/Rocha_OfficialPortrait_2022.JPG)          (📸: Peter Morenus)
 
-<!--
-**cesar-rocha/cesar-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Cesar Rocha
 
-Here are some ideas to get you started:
+I am an ocean scientist and faculty member at the [Universidade de São Paulo (USP)](https://www5.usp.br/), Brazil, broadly interested in small-scale physical processes in the ocean and their role in Earth’s Climate System.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- Hi there 👋
--->
+- 🌎 **Background:** Originally from São Paulo and a USP graduate, I earned my Ph.D. in Physical Oceanography from the Scripps Institution of Oceanography, UC San Diego (2018).
+- 🧑‍🔬 **Research Journey:**  
+  - Postdoctoral Researcher at Woods Hole Oceanographic Institution (2018–2020)  
+  - Assistant Professor at the University of Connecticut (2020–2023)  
+  - Returned to USP as faculty in 2023
+
+## 🧭 Research Interests
+
+I investigate how small-scale physical processes in the ocean impact the global climate. My approach combines methods from applied mathematics and theoretical physics, and involves building theoretical and numerical models to understand fundamental physical phenomena.
+
+- Ocean turbulence & mixing
+- Internal waves & mesoscale dynamics
+- Ocean role in Earth's climate
+
+## 🛠️ Approaches & Methods
+
+- Ocean observations
+- Numerical modeling
+- Applied mathematics & theoretical physics
+
+## 👟 Outside the Lab
+
+When I’m not working, I enjoy running (currently training for my first marathon!) and spending time with family and friends.
+
+## 🌐 More About Me
+
+- [Personal Website](https://cesar-rocha.github.io)  
+- Not on social media — I prefer to focus my time on research, teaching, and real life.
+
+---
+
+> “The first rule is not to fool yourself — and you are the easiest person to fool.” — Richard Feynman
+
