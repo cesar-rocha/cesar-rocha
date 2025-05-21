@@ -17,7 +17,7 @@ I am an ocean scientist and faculty member at the [Universidade de São Paulo (U
 
 ## 🧭 Research Interests
 
-I investigate how small-scale physical processes in the ocean impact the global climate. My approach combines methods from applied mathematics and theoretical physics, and involves building theoretical and numerical models to understand fundamental physical phenomena.
+I investigate how small-scale physical processes in the ocean impact the global climate. My approach combines methods from applied mathematics and theoretical physics, and involves building theoretical and numerical models as well as analyzing ocean observations to understand fundamental physical phenomena.
 
 - Ocean turbulence & mixing
 - Internal waves & mesoscale dynamics
