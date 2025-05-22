@@ -35,7 +35,4 @@ When I’m not working, I enjoy running (currently training for my first maratho
 - [Personal Website](https://cesar-rocha.github.io)  
 - Not on social media — I prefer to focus my time on research, teaching, and real life.
 
----
-
-> “The first rule is not to fool yourself — and you are the easiest person to fool.” — Richard Feynman
 
