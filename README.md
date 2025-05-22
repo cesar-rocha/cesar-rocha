@@ -22,10 +22,8 @@ I investigate how small-scale physical processes in the ocean impact the global 
 
 ## 🛠️ Approaches & Methods
 
-- Ocean observations
-- Numerical modeling
-- Applied mathematics
-- Theoretical physics
+- Data from novel observational platforms and high-resolution numerical models
+- Methods of Applied Mathematics and Theoretical Physics
 
 ## 👟 Outside the Lab
 
