@@ -1,4 +1,3 @@
-![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0001-5999-4917&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0003-4063-5468)
 [![Google Scholar]([https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar])(https://scholar.google.com.br/citations?user=7U3g940AAAAJ&hl=pt-BR&oi=ao))
 
