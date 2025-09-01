@@ -3,7 +3,7 @@
 
 # 👋 Hi, I’m Cesar Rocha
 
-I am an ocean scientist and faculty member at the [Universidade de São Paulo (USP)](https://www5.usp.br/), Brazil, broadly interested in small-scale physical processes in the ocean and their role in Earth’s Climate System.
+I am an ocean scientist, geophysical fluid dynamicist and faculty member at the [Universidade de São Paulo (USP)](https://www5.usp.br/), Brazil, broadly interested in small-scale physical processes in the ocean and their role in Earth’s Climate System.
 
 - 🌎 **Background:** Originally from São Paulo and a USP graduate, I earned my Ph.D. in Physical Oceanography from the Scripps Institution of Oceanography, UC San Diego (2018).
 - 🧑‍🔬 **Research Journey:**  
